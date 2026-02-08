@@ -1,7 +1,7 @@
 #### Tests again! My Pet Codey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg" alt="Codey you angry pet on github" width="100%">
+  <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg" alt="Codey you angry pet on github" width="80%">
 </p>
 
 ---
