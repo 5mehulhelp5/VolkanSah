@@ -1,9 +1,9 @@
-#### Tests again! My Pet Codey
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg" alt="Codey you angry pet on github" width="80%">
+  <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg" alt="Codey you angry pet on github" width="97%">
 </p>
-
+#### Tests again! My Pet Codey
 ---
 
 ###### [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah) • [Free SD-Gen (R34)](https://perchance.org/hot-images)
