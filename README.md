@@ -79,6 +79,80 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 
 ---
 
+
+<details>
+<summary>Released</summary>
+
+<!-- LAST_RELEASED-START -->
+
+| Version | Name | Date | Notes |
+|---------|------|------|-------|
+| 0.1.0 | First Light | 2026-01-01 | Initial release, just the beginning |
+| 0.2.0 | Bug Hunt | 2026-01-15 | Minor fixes, added basic logging |
+| 0.3.0 | Chaos Mode | 2026-02-01 | First experimental features added |
+| 0.4.0 | Stealth Ops | 2026-02-08 | Security improvements, hidden goodies |
+
+<!-- LAST_RELEASED-END -->
+
+</details>
+
+<details>
+<summary>Last Fixes / Updates</summary>
+
+<!-- LAST_FIX-START -->
+
+| Date | Fix / Update | Author | Status |
+|------|--------------|--------|--------|
+| 2026-02-07 | Brain bug patch | Volkan | ✅ Fixed |
+| 2026-02-06 | Proxy fetcher update | BadTin | ✅ Tested |
+| 2026-02-05 | Minor UI adjustments | Volkan | ✅ Fixed |
+| 2026-02-04 | Database schema tweak | BadTin | ⚠ In review |
+
+<!-- LAST_FIX-END -->
+
+</details>
+
+<details>
+<summary>Organisations</summary>
+
+| Organisation | Type | GitHub |
+|-------------|------|--------|
+| AiCodeCraft | n.A. | [AiCodeCraft](https://github.com/AiCodeCraft) |
+| Codey-LAB | n.A. | [Codey-LAB](https://github.com/Codey-LAB) |
+| Command-n-Conquer | n.A. | [Command-n-Conquer](https://github.com/Command-n-Conquer) |
+| EmojiQL | n.A. | [EmojiQL](https://github.com/EmojiQL) |
+| ESOL-License | n.A. | [ESOL-License](https://github.com/ESOL-License) |
+| koeniglichepost | n.A. | [koeniglichepost](https://github.com/koeniglichepost) |
+| MiniGreX | n.A. | [MiniGreX](https://github.com/MiniGreX) |
+| NemesisCyberForce | n.A. | [NemesisCyberForce](https://github.com/NemesisCyberForce) |
+| PDF-CVE | n.A. | [PDF-CVE](https://github.com/PDF-CVE) |
+| RustySafe | n.A. | [RustySafe](https://github.com/RustySafe) |
+| SDCPT | n.A. | [SDCPT](https://github.com/SDCPT) |
+| System-Hell-Provocation | n.A. | [System-Hell-Provocation](https://github.com/System-Hell-Provocation) |
+| Wall-of-Shames | n.A. | [Wall-of-Shames](https://github.com/Wall-of-Shames) |
+
+</details>
+
+
+
+<details>
+<summary>Misc</summary>
+
+<!-- BRAIN_BUG-START -->
+
+| Item | Description | Status |
+|------|------------|--------|
+| Codey Pet | Angry SVG pet on GitHub | 🐾 Active |
+| Stats Automation | GitHub stars & repo stats | ✅ Running |
+| Brain.bug.log | Last 30 logs from CI | 🔍 Monitoring |
+| Meme Vault | Collection of Evil Morty memes | 😎 Secret |
+| Fun Fact | Grandmas feel my aura | 💥 True |
+
+<!-- BRAIN_BUG-END -->
+
+</details>
+
+
 <!-- STATS-START -->
 
 ## 📊 GitHub Stats
