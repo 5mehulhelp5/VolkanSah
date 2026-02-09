@@ -8,7 +8,11 @@
 
 ---
 
-###### [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah) • [Free SD-Gen (R34)](https://perchance.org/hot-images)
+###### QTipps 4 me: [Free Global Proxies](https://github.com/VolkanSah/Auto-Proxy-Fetcher) • [JadeAI](https://jugendamt-deutschland.de) • [Gist](https://gist.github.com/VolkanSah) • [Free SD-Gen (R34)](https://perchance.org/hot-images) • [SideKick](https://github.com/badtin) • [HF](https://huggingface.co/Alibrown) • [NEON](https://neon.com/)
+
+
+
+
 
 ---
 
