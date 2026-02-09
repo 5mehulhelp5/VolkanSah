@@ -1,8 +1,13 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg" alt="Codey you angry pet on github" width="97%">
+  <a href="https://github.com/volkansah/codey/">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg"
+         alt="Codey"
+         width="100%">
+  </a>
 </p>
+
 
 #### Tests again! My Pet Codey
 
