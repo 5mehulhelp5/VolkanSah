@@ -81,6 +81,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
     <img src="https://raw.githubusercontent.com/Wall-of-Shames/.github/main/profile/wall-of-shames.jpg" width="99%">
   </a>
 </p>
+
+
 ---
 
 > [!IMPORTANT]
@@ -97,8 +99,8 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
 | Version | Name | Date | Notes |
 |---------|------|------|-------|
 | 0.1.0 | First Light | 2026-01-01 | Initial release, just the beginning |
-| 0.2.0 | Bug Hunt | 2026-01-15 | Minor fixes, added basic logging |
-| 0.3.0 | Chaos Mode | 2026-02-01 | First experimental features added |
+| 1.2.0 | Bug Hunt | 2026-01-15 | Minor fixes, added basic logging |
+| 1.2.8 | Chaos Mode | 2026-02-01 | First experimental features added |
 | 0.4.0 | Stealth Ops | 2026-02-08 | Security improvements, hidden goodies |
 
 <!-- LAST_RELEASED-END -->
