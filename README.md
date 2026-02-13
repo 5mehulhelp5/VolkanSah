@@ -1,4 +1,5 @@
-
+### 🐾 Codey - Your Brutally Honest GitHub Pet
+> RPG "No Mercy" Edition v2.1 - Where Your Code Gets Judged For Real
 
 <p align="center">
   <a href="https://github.com/volkansah/codey/">
