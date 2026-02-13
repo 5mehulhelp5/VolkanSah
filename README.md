@@ -173,13 +173,14 @@ Look, Morty, we live in a universe of infinite possibilities. Infinite. So why t
   - ⭐ Active Stars: 626
   - 💎 Archived Stars: 68
   - 🌟 Total Own Stars: 694
-- **Forked Public Repositories:** 79
+- **Forked Public Repositories:** 80 NOT MY ⭐
   - ⭐ Active Stars: 74
   - 💎 Archived Stars: 0
   - 🌟 Total Fork Stars: 74
-- **🎯 Grand Total Stars:** 768
+- **🎯 FAKE Total Stars:** 768
+- ** See Codey RPG system for better stats**
 
-*Last updated automatically via GitHub Actions.*
+*Fake STATS updated automatically via GitHub Actions!*
 <!-- STATS-END -->
 
 
