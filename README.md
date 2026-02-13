@@ -9,7 +9,8 @@
 </p>
 
 
-#### Tests again! My Pet Codey
+>  ⚠️ Codey Current Status: Testing phase 08.02–18.02.2026 — needs testers brave enough to face the truth! v.2.1
+
 
 ---
 
