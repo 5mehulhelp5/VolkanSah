@@ -136,13 +136,14 @@ def update_readme(own_repos, own_stars, own_archived_stars, forked_repos, forked
   - ⭐ Active Stars: {own_stars}
   - 💎 Archived Stars: {own_archived_stars}
   - 🌟 Total Own Stars: {own_stars + own_archived_stars}
-- **Forked Public Repositories:** {forked_repos}
+- **Forked Public Repositories:** {forked_repos} NOT MY ⭐
   - ⭐ Active Stars: {forked_stars}
   - 💎 Archived Stars: {forked_archived_stars}
   - 🌟 Total Fork Stars: {forked_stars + forked_archived_stars}
-- **🎯 Grand Total Stars:** {own_stars + own_archived_stars + forked_stars + forked_archived_stars}
+- **🎯 FAKE Total Stars:** {own_stars + own_archived_stars + forked_stars + forked_archived_stars}
+- ** See Codey RPG system for better stats**
 
-*Last updated automatically via GitHub Actions.*
+*Fake STATS updated automatically via GitHub Actions!*
 <!-- STATS-END -->"""
     
     try:
